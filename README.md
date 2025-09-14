@@ -60,7 +60,7 @@ The JSON files were processed and imported into an SQLite database for efficient
 - **Visual Reports** – Dynamic bar charts, heatmaps, and time-based trend analysis using Plotly and Matplotlib.  
 - **Documentation** – A detailed walkthrough of objectives, methods, and insights for stakeholders and business users.
 
-## 8. 🔍 Potential Use Cases  
+## 8.  Potential Use Cases  
 
 - Restaurant chains can benchmark their performance against competitors.  
 - Customer feedback trends can guide service improvements and loyalty programs.  
