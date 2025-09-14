@@ -67,4 +67,5 @@ The JSON files were processed and imported into an SQLite database for efficient
 - Marketing teams can optimise campaigns based on sentiment and engagement patterns.  
 - Operational teams can plan staffing and inventory management during high-demand periods.
 
+![Sentimental Analysis Chart](https://github.com/Anushka-dabas/User-Engagement-analysis/blob/main/snapshot%20of%20sentimental%20analysis.png?raw=true)
 
