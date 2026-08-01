@@ -90,4 +90,3 @@ with col_s2:
 
 # Footer
 st.markdown("---")
-st.markdown("Developed as part of a Data Analytics Portfolio | Target Role: Data Analyst at Google")
