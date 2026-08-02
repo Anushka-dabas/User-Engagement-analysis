@@ -10,6 +10,14 @@ The project provides deep insights into customer reviews, peak operating hours, 
 
 Built using the **Streamlit** framework, the web app delivers an interactive, clean interface powered by **Python's Pandas, Plotly, and NLTK** for data processing and dynamic visualisations. The underlying data is structured and queried efficiently using an **SQLite** database.
 
+## Accessing the Live Web App
+
+To view the live, hosted version of this project, click the link below:
+
+ **[View Live Dashboard](https://user-engagement-analysis.streamlit.app/)** *(https://user-engagement-analysis.streamlit.app/)*
+
+In cases where the app is sleeping due to inactivity, simply click the **"Yes, get the app back up"** button and wait a few seconds for the cloud server to relaunch.
+
 ## Running Locally from Your System
 
 To run the project on your local machine, execute the following commands in your terminal one by one:
