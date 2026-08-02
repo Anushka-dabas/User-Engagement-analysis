@@ -1,13 +1,12 @@
-```markdown
 # User Engagement Analysis
 
 ## Description
 
-- This project is a comprehensive data analysis and visualization tool designed to explore performance metrics, customer engagement trends, rating dynamics, and sentiment analysis across a large-scale Yelp dataset.
+This project is a comprehensive data analysis and visualization tool designed to explore performance metrics, customer engagement trends, rating dynamics, and sentiment analysis across a large-scale Yelp dataset.
 
-- The project provides deep insights into customer reviews, peak operating hours, geographical success distribution, and data-driven recommendations for stakeholders, restaurant owners, and investors. 
+The project provides deep insights into customer reviews, peak operating hours, geographical success distribution, and data-driven recommendations for stakeholders, restaurant owners, and investors. 
 
-- Built using the **Streamlit** framework, the web app delivers an interactive, clean interface powered by **Python's Pandas, Plotly, and NLTK** for data processing and dynamic visualisations. The underlying data is structured and queried efficiently using an **SQLite** database.
+Built using the **Streamlit** framework, the web app delivers an interactive, clean interface powered by **Python's Pandas, Plotly, and NLTK** for data processing and dynamic visualisations. The underlying data is structured and queried efficiently using an **SQLite** database.
 
 ## Accessing the Live Web App
 
@@ -24,8 +23,6 @@ To run the project on your local machine, execute the following commands in your
 1. **Clone the GitHub repository:**
    ```bash
    git clone [https://github.com/Anushka-dabas/User-Engagement-analysis.git](https://github.com/Anushka-dabas/User-Engagement-analysis.git)
-
-```
 
 2. **Change current directory to the project folder:**
 ```bash
