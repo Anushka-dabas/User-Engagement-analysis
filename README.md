@@ -24,11 +24,11 @@ To run the project on your local machine, execute the following commands in your
 1. **Clone the GitHub repository:**
 ```bash
 git clone https://github.com/Anushka-dabas/User-Engagement-analysis.git
+```
 
 2. **Change current directory to the project folder:**
 ```bash
 cd User-Engagement-analysis
-
 ```
 
 
