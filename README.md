@@ -12,7 +12,7 @@ Built using the **Streamlit** framework, the web app delivers an interactive, cl
 
 To view the live, hosted version of this project, click the link below:
 
-👉 **[View Live Dashboard](https://user-engagement-analysis.streamlit.app/)** 
+👉 **[View Live Dashboard](https://user-engagement-analysiss.streamlit.app/)** 
 
 In cases where the app is sleeping due to inactivity, simply click the **"Yes, get the app back up"** button and wait a few seconds for the cloud server to relaunch.
 
