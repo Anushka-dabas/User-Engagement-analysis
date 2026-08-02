@@ -20,9 +20,10 @@ In cases where the app is sleeping due to inactivity, simply click the **"Yes, g
 
 To run the project on your local machine, execute the following commands in your terminal one by one:
 
+
 1. **Clone the GitHub repository:**
-   ```bash
-   git clone [https://github.com/Anushka-dabas/User-Engagement-analysis.git](https://github.com/Anushka-dabas/User-Engagement-analysis.git)
+```bash
+git clone https://github.com/Anushka-dabas/User-Engagement-analysis.git
 
 2. **Change current directory to the project folder:**
 ```bash
