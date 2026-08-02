@@ -69,5 +69,5 @@ st.plotly_chart(fig, use_container_width=True)
 
 st.markdown('---')
 if st.button('⬅️ Back to home'):
-    st.switch_page('app.py')
+    st.switch_page('home.py')
 

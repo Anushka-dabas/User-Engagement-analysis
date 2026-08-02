@@ -57,4 +57,4 @@ fig = px.bar(
 st.plotly_chart(fig, use_container_width=True)
 
 if st.button('⬅️Back to Home'):
-    st.switch_page('app.py')
+    st.switch_page('home.py')

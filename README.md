@@ -1,20 +1,19 @@
-
-#    USER ENGAGEMENT ANALYSIS
+```markdown
+# User Engagement Analysis
 
 ## Description
 
+- This project is a comprehensive data analysis and visualization tool designed to explore performance metrics, customer engagement trends, rating dynamics, and sentiment analysis across a large-scale Yelp dataset.
 
-This project is a comprehensive data analysis and visualization tool designed to explore performance metrics, customer engagement trends, rating dynamics, and sentiment analysis across a large-scale Yelp dataset.
+- The project provides deep insights into customer reviews, peak operating hours, geographical success distribution, and data-driven recommendations for stakeholders, restaurant owners, and investors. 
 
-The project provides deep insights into customer reviews, peak operating hours, geographical success distribution, and data-driven recommendations for stakeholders, restaurant owners, and investors. 
-
-Built using the **Streamlit** framework, the web app delivers an interactive, clean interface powered by **Python's Pandas, Plotly, and NLTK** for data processing and dynamic visualisations. The underlying data is structured and queried efficiently using an **SQLite** database.
+- Built using the **Streamlit** framework, the web app delivers an interactive, clean interface powered by **Python's Pandas, Plotly, and NLTK** for data processing and dynamic visualisations. The underlying data is structured and queried efficiently using an **SQLite** database.
 
 ## Accessing the Live Web App
 
 To view the live, hosted version of this project, click the link below:
 
- **[View Live Dashboard](https://user-engagement-analysis.streamlit.app/)** 
+👉 **[View Live Dashboard](https://user-engagement-analysis.streamlit.app/)** 
 
 In cases where the app is sleeping due to inactivity, simply click the **"Yes, get the app back up"** button and wait a few seconds for the cloud server to relaunch.
 
@@ -24,7 +23,7 @@ To run the project on your local machine, execute the following commands in your
 
 1. **Clone the GitHub repository:**
    ```bash
-   git clone [https://github.com/your-username/User-Engagement-analysis.git](https://github.com/your-username/User-Engagement-analysis.git)
+   git clone [https://github.com/Anushka-dabas/User-Engagement-analysis.git](https://github.com/Anushka-dabas/User-Engagement-analysis.git)
 
 ```
 
@@ -72,6 +71,7 @@ The repository includes specialized exploratory notebooks used for data processi
 * **SQLite:** Core database engine used to query and manipulate large datasets efficiently using optimized SQL scripts.
 * **Python (Pandas, Plotly, NLTK):** Used for advanced data manipulation, dynamic visualisations, and sentiment scoring.
 * **VADER Sentiment Analysis:** Applied to user reviews to quantify customer sentiment and link feedback with engagement metrics.
+![sentiment analysis](assets/snapshot_of_sentimental_analysis.png)
 * **Key Analytical Goals:** Evaluate how review counts, tips, and check-ins impact ratings, uncover peak operational hours, and map geographic performance trends.
 
 ## Dataset
@@ -80,6 +80,16 @@ The raw data powering the underlying analysis originates from the official [Yelp
 
 * **Raw Data:** Due to GitHub's file size limits (100 MB per file), the multi-gigabyte raw files are not stored directly in this repository.
 * **App Data:** The web application runs on pre-processed summary and aggregate files, allowing the dashboard to launch instantly without memory constraints.
+
+## App Preview
+
+![Dashboard Home](assets/dashboard.png)
+![Customer Engagement Analysis](assets/user_eng.png)
+![Rating Analysis](assets/rating.png)
+![Time and Location](assets/location.png)
+![Recommendation](assets/recommend.png)
+
+
 
 ## Lessons Learned
 
@@ -95,3 +105,7 @@ The raw data powering the underlying analysis originates from the official [Yelp
 ## Feedback
 
 For any feedback, suggestions, or project improvements, feel free to open a GitHub Issue or reach out directly via email at anushhkadabas@gmail.com.
+
+```
+
+```
